@@ -1,5 +1,9 @@
 # 💫 About Me:
-I enjoy coding and building new things.
+My name is Dennis Kamau.<br>
+I am a Fullstask Developer with a amjor liking for backend.<br>
+I enjoy coding and building new things.<br>
+I Love Java and Go for Backend.<br>
+I mostly use Flutter and Angular for Frontend.<br>
 I'm currently working on a new GRPC backend utility module that will house utilities required for future grpc projects<br>
 
 
