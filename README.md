@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Dennis Kamau.<br>
+My name is **Dennis Kamau**.<br>
 I am a Fullstask Developer with a amjor liking for backend.<br>
 I enjoy coding and building new things.<br>
 I Love Java and Go for Backend.<br>
