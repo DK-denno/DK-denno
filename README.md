@@ -20,8 +20,10 @@ I'm currently working on a new GRPC backend utility module that will house utili
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DK-denno&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 My Wakatime Stats since August 2024
-![WakaTime Stats](https://wakatime.com/share/@22d5493b-a4b8-471d-bf2c-1d8d68a51e03/362f2a97-d741-411d-9561-0b4733a25abb.svg)
+### 🔝 My Wakatime Stats since September 2024
+![WakaTime Stats](https://wakatime.com/share/@DK_denno/52062f6c-ff3d-4c28-9fe2-b973652223e7.svg)
+![WakaTime Stats](https://wakatime.com/share/@DK_denno/d1be1727-8c68-44d4-a65b-7bed5cfa157a.svg)
+
 
 
 ---
